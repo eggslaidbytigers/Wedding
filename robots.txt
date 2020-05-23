@@ -1,1 +1,1 @@
-Sitemap: https://scriptor-jekyll.netlify.com/sitemap.xml
+Sitemap: dustanstokes.com/sitemap.xml
